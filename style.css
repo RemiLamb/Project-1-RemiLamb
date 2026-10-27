@@ -105,12 +105,12 @@ body {
   width: 315.9px;
   height: 51.92px;
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
 }
 .a-recently-released-song-featuring-digital-art-over-real-world-photography {
   color: #000000;
-  text-align: center;
+  text-align: right;
   font-family: "Inter-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
