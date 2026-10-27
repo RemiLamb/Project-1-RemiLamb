@@ -81,3 +81,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.example-1 {
+  inset: 0;
+}
