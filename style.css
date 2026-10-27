@@ -100,6 +100,7 @@ body {
   font-size: 24px;
   font-weight: 600;
   text-decoration: underline;
+  position: absolute;
   left: 105px;
   top: 695px;
   width: 315.9px;
@@ -108,7 +109,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
 .a-recently-released-song-featuring-digital-art-over-real-world-photography {
   color: #000000;
   text-align: center;
