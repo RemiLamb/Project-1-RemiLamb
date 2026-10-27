@@ -94,3 +94,19 @@ body {
   object-fit: cover;
   aspect-ratio: 1;
 }
+.they-will-bury-me-a-woman-album-art-rainy-holmes {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: underline;
+  position: absolute;
+  left: 105px;
+  top: 695px;
+  width: 315.9px;
+  height: 51.92px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
