@@ -9,3 +9,11 @@
   position: relative;
   overflow: hidden;
 }
+.rectangle-6 {
+  background: #bf9ac4;
+  width: 1568px;
+  height: 1840px;
+  position: absolute;
+  left: -108px;
+  top: -84px;
+}
