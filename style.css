@@ -69,3 +69,18 @@ body {
   width: 790px;
   height: 248px;
 }
+
+.vectors-are-digital-images-oftentimes-mainly-art-and-can-be-used-over-photography-to-add-depth-into-the-scenes-that-we-see-within-art {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  left: 77px;
+  top: 109px;
+  width: 769px;
+  height: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
