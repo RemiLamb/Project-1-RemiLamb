@@ -83,7 +83,7 @@ body {
 }
 
 .example-1 {
-  inset: 0;
+  inset: 2;
 }
 .image-8 {
   width: 350px;
@@ -120,7 +120,7 @@ body {
   height: 97.99px;
 }
 .example-2 {
-  inset: 0;
+  inset: 2;
 }
 .image-9 {
   width: 263px;
@@ -156,7 +156,7 @@ body {
   height: 134px;
 }
 .example-3 {
-  inset: 0;
+  inset: 2;
 }
 .image-10 {
   width: 350px;
@@ -244,3 +244,4 @@ body {
   width: 1344px;
   left: 48px;
   top: 1417px;
+}
