@@ -105,12 +105,12 @@ body {
   width: 315.9px;
   height: 51.92px;
   display: flex;
-  align-items: right;
+  align-items: center;
   justify-content: center;
 }
 .a-recently-released-song-featuring-digital-art-over-real-world-photography {
   color: #000000;
-  text-align: right;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -119,3 +119,128 @@ body {
   width: 315.9px;
   height: 97.99px;
 }
+.example-2 {
+  inset: 0;
+}
+.image-9 {
+  width: 263px;
+  height: 350px;
+  left: 600px;
+  top: 314px;
+  object-fit: cover;
+  aspect-ratio: 263/350;
+}
+.yuuki-mikami-remi-lamb {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  left: 516px;
+  top: 686px;
+  width: 432px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.this-is-my-own-art-through-the-use-of-edited-photos-i-found-on-pintrest-and-drawing-ontop-of-the-collaged-photos-in-procreate {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  left: 511px;
+  top: 773px;
+  width: 432px;
+  height: 134px;
+}
+.example-3 {
+  inset: 0;
+}
+.image-10 {
+  width: 350px;
+  height: 350px;
+  left: 965px;
+  top: 314px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.untitled-violetta-lamb {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  left: 960px;
+  top: 679px;
+  width: 432px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.art-made-by-my-sister-violetta-lamb-similar-to-my-yuuki-mikami-piece-violetta-would-use-collaged-images-and-drawn-ontop {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  left: 960px;
+  top: 773px;
+  width: 432px;
+  height: 73px;
+}
+.image-11 {
+  width: 433px;
+  height: 480px;
+  left: 56px;
+  top: 875px;
+  object-fit: cover;
+  aspect-ratio: 433/480;
+}
+.image-12 {
+  width: 192px;
+  height: 192px;
+  left: 561px;
+  top: 970px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.birdbrain {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  text-decoration: underline;
+  left: 789px;
+  top: 973px;
+  width: 660px;
+  height: 58px;
+}
+.birdbrain-w-ok-glass-feat-kasane-teto-is-a-song-by-jamie-paige-it-is-not-only-a-great-demonstration-of-digital-art-on-top-of-photography-but-takes-it-to-the-next-level-with-using-real-life-videos-with-digital-animation-ontop-it-is-a-testament-to-the-skill-of-the-artists-to-make-it-feel-like-the-character-teto-belongs-in-the-scenes-she-s-featured-in {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  left: 789px;
+  top: 1047px;
+  width: 546px;
+  height: 212px;
+}
+.birdbrain-w-ok-glass-feat-kasane-teto-is-a-song-by-jamie-paige-it-is-not-only-a-great-demonstration-of-digital-art-on-top-of-photography-but-takes-it-to-the-next-level-with-using-real-life-videos-with-digital-animation-ontop-it-is-a-testament-to-the-skill-of-the-artists-to-make-it-feel-like-the-character-teto-belongs-in-the-scenes-she-s-featured-in-span {
+}
+.birdbrain-w-ok-glass-feat-kasane-teto-is-a-song-by-jamie-paige-it-is-not-only-a-great-demonstration-of-digital-art-on-top-of-photography-but-takes-it-to-the-next-level-with-using-real-life-videos-with-digital-animation-ontop-it-is-a-testament-to-the-skill-of-the-artists-to-make-it-feel-like-the-character-teto-belongs-in-the-scenes-she-s-featured-in-span2 {
+  text-decoration: underline;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1344px;
+  left: 48px;
+  top: 1417px;
