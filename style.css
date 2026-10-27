@@ -24,3 +24,14 @@ body {
   width: 150px;
   height: 67px;
 }
+
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 846px;
+  top: 23px;
+}
