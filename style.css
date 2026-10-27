@@ -108,3 +108,7 @@ body {
   font-size: 16px;
   font-weight: 400;
 }
+.example-2 {
+  position: absolute;
+  inset: 0;
+}
