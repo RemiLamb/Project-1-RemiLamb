@@ -110,5 +110,5 @@ body {
 }
 .example-2 {
   position: absolute;
-  inset: 0;
+  inset: 1;
 }
