@@ -88,8 +88,6 @@ body {
 .image-8 {
   width: 350px;
   height: 350px;
-  position: absolute;
-  left: 88px;
   top: 314px;
   object-fit: cover;
   aspect-ratio: 1;
