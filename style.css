@@ -79,7 +79,7 @@ body {
 }
 
 .grid-col-6 {
-
+  border: solid 1px #bf9ac4;
   display: grid;
   grid-template: auto / 1fr 1fr 1fr 1fr 1fr 1fr;
   gap: 20px;
@@ -90,7 +90,7 @@ body {
 }
 
 .grid-col-6 div{
-
+  border: solid 1px #bf9ac4;
 }
 
 .span-2-col {
@@ -99,5 +99,5 @@ body {
 
 .image-1 {
   width: 100%;
-  height: auto;
+  height: au;
 }
