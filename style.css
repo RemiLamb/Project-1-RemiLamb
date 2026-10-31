@@ -98,7 +98,6 @@ body {
   width: 75%;
   height: auto;
 }
-
 .bottom-nav {
   display: flex;
   gap: 32px;
@@ -126,7 +125,4 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: bold;
-}
-p {
-  text-align: center;
 }
