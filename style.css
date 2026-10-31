@@ -103,3 +103,32 @@ body {
   width: 100%;
   height: au;
 }
+
+.bottom-nav {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  border: solid #000000;
+  padding: 20px;
+  background-color: #000000;
+}
+.bottom-nav p {
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bottom-nav a {
+  color: white;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bottom-nav a:hover{
+  color: #bf9ac4;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
