@@ -92,11 +92,15 @@ body {
 }
 .image-1 {
   width: 100%;
-  height: au;
+  height: auto;
 }
 .image-2 {
   width: 75%;
-  height: au;
+  height: auto;
+}
+.image-3 {
+  width: 125%;
+  height: auto;
 }
 .bottom-nav {
   display: flex;
