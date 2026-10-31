@@ -1,13 +1,4 @@
-.vector-over-photography,
-.vector-over-photography * {
-  box-sizing: border-box;
-}
 
-.vector-over-photography {
-  height: 1716px;
-  position: relative;
-  overflow: hidden;
-}
 body {
   background: #bf9ac4;
   margin: 0px;
