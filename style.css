@@ -94,7 +94,10 @@ body {
   width: 100%;
   height: au;
 }
-
+.image-2 {
+  width: 75%;
+  height: au;
+}
 .bottom-nav {
   display: flex;
   gap: 32px;
