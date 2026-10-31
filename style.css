@@ -10,6 +10,8 @@
 }
 body {
   background: #bf9ac4;
+  margin: 0px;
+ font-family: "Inter-Regular", sans-serif;
 }
 
 .remi-lamb {
@@ -21,124 +23,81 @@ body {
   left: 48px;
   top: 23px;
   width: 150px;
-  height: 67px;
+  margin-right: auto;
 }
 
-.frame-1 {
+.top-nav {
   display: flex;
-  flex-direction: row;
   gap: 32px;
   align-items: center;
-  justify-content: flex-start;
-  left: 846px;
-  top: 23px;
+  border: solid #000000;
+  padding: 20px;
+  background-color: #000000;
 }
 
-.vector-over-photography2 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  font-weight: 400;
-  width: 291px;
-  height: 67px;
+.top-nav p {
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
-.zine-and-photocopy {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  font-weight: 400;
-  position: relative;
-  width: 291px;
-  height: 67px;
+.top-nav a {
+  color: white;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
-.vector-over-photography3 {
+.top-nav a:hover{
+  color: #bf9ac4;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.headline {
   color: #000000;
-  text-align: left;
+  text-align: center;
   font-family: "Jaro-Regular", sans-serif;
   font-size: 84px;
   font-weight: 400;
-  left: 56px;
-  top: 90px;
-  width: 790px;
-  height: 248px;
+  margin-bottom: 10px;
 }
 
-.vectors-are-digital-images-oftentimes-mainly-art-and-can-be-used-over-photography-to-add-depth-into-the-scenes-that-we-see-within-art {
+.copy {
   color: #000000;
   text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 20px;
   font-weight: 400;
-  left: 77px;
-  top: 109px;
-  width: 769px;
-  height: 210px;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.example-1 {
-  position: absolute;
-  inset: 0;
-}
-.image-8 {
-  width: 350px;
-  height: 350px;
-  object-fit: cover;
-  aspect-ratio: 1;
-}
-.they-will-bury-me-a-woman-album-art-rainy-holmes {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 24px;
-  font-weight: 600;
-  text-decoration: underline;
-  left: 105px;
-  width: 315.9px;
-  height: 51.92px;
-}
-.a-recently-released-song-featuring-digital-art-over-real-world-photography {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-}
-.example-2 {
-  position: absolute;
-  inset: 1;
-}
-.image-9 {
-  width: 263px;
-  height: 350px;
-}
-.yuuki-mikami-remi-lamb {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 24px;
-  font-weight: 600;
-  left: 516px;
-  width: 432px;
-  height: 71px;
-}
-.this-is-my-own-art-through-the-use-of-edited-photos-i-found-on-pintrest-and-drawing-ontop-of-the-collaged-photos-in-procreate {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  left: 511px;
-  top: 773px;
-  width: 432px;
-  height: 134px;
+  max-width: 6500px;
+  margin: 0px auto;
 }
 
-.example-3 {
-  position: absolute;
-  inset: 1;
+.grid-col-6 {
+  border: solid 1px black;
+  display: grid;
+  grid-template: auto / 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  margin-top: 20px;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid-col-6 div{
+  border: solid 1px black;
+}
+
+.span-2-col {
+  grid-column: span 2;
+}
+
+.image-1 {
+  width: 100%;
+  height: auto;
 }
